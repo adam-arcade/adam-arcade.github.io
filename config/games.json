@@ -402,12 +402,12 @@
   {
     "link": "projects/minecraft/index.html",
     "imgSrc": "projects/minecraft/splash.jpeg",
-    "title": "Eaglercraft"
+    "title": "Eaglercraft 1.12.2"
   },
   {
     "link": "projects/minecraft-classic/index.html",
     "imgSrc": "projects/minecraft-classic/pack.png",
-    "title": "Minecraft Classic"
+    "title": "Eaglercraft 1.8.8"
   },
   {
     "link": "projects/minesweeper/index.html",
