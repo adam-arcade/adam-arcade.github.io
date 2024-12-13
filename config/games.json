@@ -40,9 +40,9 @@
     "title": "Avalanche"
   },
   {
-    "link": "projects/backrooms/index.html",
-    "imgSrc": "projects/backrooms/img/splash.jpg",
-    "title": "Backrooms"
+    "link": "projects/tag/index.html",
+    "imgSrc": "https://ph-files.imgix.net/6af768ce-558c-4ec0-b5b4-7c1ca17b1ab2.png?auto=format",
+    "title": "Tag"
   },
   {
     "link": "projects/basketrandom/index.html",
